@@ -28,6 +28,7 @@ RUN source activate python2 &&\
 RUN pip2 install imolecule
 
 RUN pip2 install numericalunits
+RUN pip2 install wget
 
 
 # copy test files
