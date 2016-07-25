@@ -26,10 +26,12 @@ RUN source activate python2 &&\
 #RUN pip2 install https://github.com/rpmuller/pyquante2/zipball/master
 
 RUN pip2 install imolecule
+RUN pip2 install numericalunits
 
 # update packages
 RUN conda update -n python2 --all --quiet --yes
 RUN conda clean --all
+
 
 # copy test files
 #COPY test /home/jovyan/
