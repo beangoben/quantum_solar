@@ -1,4 +1,4 @@
-![](media/banner.png)
+![](https://github.com/beangoben/quantum_solar/blob/master/media/banner.png?raw=true)
 
 
 # Sobre el club
