@@ -2,8 +2,37 @@
 ## Actividades:
 
 1. Introducción a Mecánica Cuántica
-2. Intro a Python con Jupyter
+2. Intro a Python con Jupyter (Imagen Docker)
 3. Graphicando el Espectro Solar
+
+## Docker
+
+Para correr el software del curso necesitas el programa de [docker](https://www.docker.com/).
+Una vez que bajaste Docker, tambien requieres una terminal.
+
+
+Si todo estas bien debe de salirte informacion sobre la version de tu software:
+```
+docker version
+```
+
+Despues de bajas la (imagen oficial del curso)(https://hub.docker.com/r/beangoben/quantum_solar):
+```
+docker pull beangoben/quantum_solar
+```
+
+Despues te mueves en tu terminal a tu carpeta de trabajo favorita y ejecutas este comando:
+
+```
+docker run -p 8888:8888 -v $(pwd):/home/jovyan/work beangoben/quantum_solar
+```
+
+ya solo queda vistiar la pagina de internet en tu navegador favorito (recomendamos Google chrome):
+
+```
+http://localhost:8888/
+```
+
 
 ## Links de Lectura:
 Leanlo por favor, o no vengan al siguiente día :) :
