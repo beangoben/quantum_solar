@@ -32,7 +32,7 @@ RUN conda update -n python2 --all --quiet --yes
 RUN conda clean --all
 
 # copy test files
-COPY test /home/jovyan/
+#COPY test /home/jovyan/
 
 
 USER jovyan
