@@ -16,4 +16,5 @@
 
 ## Preguntas:
 
--
+* De que trata el articulo de CdTe ? Por que CdTe como material para celdas solares? Como estan atacando problemas de abasto?
+* Que tipo de pigmentos usaremos? Como se ven las molecules? Que tipo de propiedades tienen estas moleculas?
