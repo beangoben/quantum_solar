@@ -5,7 +5,6 @@
 1. Introducción a Python con Jupyter
 2. Intro a graficar
 3. Interaccion photon-electron
-5. Si alcanzamos, Quimica Cuantica
 
 ## Links de Lectura:
 
