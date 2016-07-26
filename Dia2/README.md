@@ -8,34 +8,6 @@
 4. Limite Shockley-Queisser
 5. Si alcanzamos, Quimica Cuantica
 
-## Docker
-
-Para correr el software del curso necesitas el programa de [docker](https://www.docker.com/). Una vez que bajaste Docker, también requieres una terminal.
-
-Si todo estas bien debe de salirte información sobre la versión de tu software:
-
-```
-docker version
-```
-
-Despues de bajas la (imagen oficial del curso)(<https://hub.docker.com/r/beangoben/quantum_solar>):
-
-```
-docker pull beangoben/quantum_solar
-```
-
-Despues te mueves en tu terminal a tu carpeta de trabajo favorita y ejecutas este comando:
-
-```
-docker run -p 8888:8888 -v $(pwd):/home/jovyan/work beangoben/quantum_solar
-```
-
-ya solo queda vistiar la pagina de internet en tu navegador favorito (recomendamos Google chrome):
-
-```
-http://localhost:8888/
-```
-
 ## Links de Lectura:
 
 1. [The Impact of Tellurium Supply on Cadmium Telluride Photovoltaics](http://science.sciencemag.org/content/328/5979/699)
