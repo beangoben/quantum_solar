@@ -1,21 +1,25 @@
-# Día 1
+# Día 2
+
 ## Actividades:
 
-1. Introducción a Mecánica Cuántica
-2. Intro a Celdas Solares y materiales
+1. Introducción a Python con Jupyter
+2. Intro a graficar
+3. Interaccion photon-electron
+4. Limite Shockley-Queisser
+5. Si alcanzamos, Quimica Cuantica
 
 ## Docker
 
-Para correr el software del curso necesitas el programa de [docker](https://www.docker.com/).
-Una vez que bajaste Docker, también requieres una terminal.
-
+Para correr el software del curso necesitas el programa de [docker](https://www.docker.com/). Una vez que bajaste Docker, también requieres una terminal.
 
 Si todo estas bien debe de salirte información sobre la versión de tu software:
+
 ```
 docker version
 ```
 
-Despues de bajas la (imagen oficial del curso)(https://hub.docker.com/r/beangoben/quantum_solar):
+Despues de bajas la (imagen oficial del curso)(<https://hub.docker.com/r/beangoben/quantum_solar>):
+
 ```
 docker pull beangoben/quantum_solar
 ```
@@ -32,20 +36,14 @@ ya solo queda vistiar la pagina de internet en tu navegador favorito (recomendam
 http://localhost:8888/
 ```
 
-
 ## Links de Lectura:
-Leanlo por favor, o no vengan al siguiente día :) :
 
-1. [Lessons from nature about solar light harvesting](http://www.nature.com/nchem/journal/v3/n10/full/nchem.1145.html)
-2. [NREL: Claims for Solar Cell Efficiency Put to Test at NREL] (http://www.nrel.gov/news/features/2016/21635) y [NREL efficency chart](http://www.nrel.gov/ncpv/images/efficiency_chart.jpg)
-3. [How cheap does solar power need to get before it takes over the world?](http://www.vox.com/2016/4/18/11415510/solar-power-costs-innovation)
-4. [How do solar panels work? - Richard Komp](https://www.youtube.com/watch?v=xKxrkht7CpY)
+1. [The Impact of Tellurium Supply on Cadmium Telluride Photovoltaics](http://science.sciencemag.org/content/328/5979/699)
+2. [Environmental impacts from the installation and operation of large-scale solar power plants](https://www.bnl.gov/pv/files/pdf/229_rser_wildlife_2011.pdf)
+3. [The Harvard Clean Energy Project](http://pubs.acs.org/doi/abs/10.1021/jz200866s)
+4. [Dye Sensitized Solar Cells - Working Principles, Challenges and Opportunities](http://www.intechopen.com/books/solar-cells-dye-sensitized-devices/dye-sensitized-solar-cells-working-principles-challenges-and-opportunities)
+5. [Titanium Dioxide Raspberry Solar Cell](http://education.mrsec.wisc.edu/289.htm)
 
 ## Preguntas:
 
-* Que porcentaje de la energía producida en México es solar? cuanto de USA? cuanto de China? Alemania?
-* Como medimos eficiencias de celdas solares?
-* Cuanto es lo máximo de eficiencia a lo que puede llegar una celda solar?
-* Como se mejora o sobrepasan los limites de celdas solares?
-* Cuales son las celdas solares con mayor eficiencia ahorita? Y por watt/$ ? (es decir poder producido por dolar?)
-* Cuales son las nuevas tecnologías que están llegando de celdas solares? En que se basan?
+-
