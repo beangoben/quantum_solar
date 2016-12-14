@@ -104,7 +104,6 @@ Estaremos basando la construcción de la celda solar a base de tintes (Dye sensi
 # Instructores:
 
 - **Benjamin Sanchez Lengeling**, Estudiante de doctorado en Química, Harvard University. Guanajuatense.
-- **Miguel Angel Magana**, Futuro estudiante de doctorado en Química, Boston University. Michoacano.
 
 Cualquier duda/comentario del curso enviárnosla a los dos instructores.
 
